@@ -15,6 +15,20 @@ $ php artisan serve
 * None yet
 
 ## Things to add
-* administrator login
-* administration panel
+* initial setup page
+    * specify admin login
+    * specify type(s) of portfolio?
+* administration
+    * login
+    * view items
+    * add items
+        * description
+        * image
+        * title
+    * delete items
+    * change settings
 * main page display
+* item display
+* store (?)
+* contact page
+* about page
